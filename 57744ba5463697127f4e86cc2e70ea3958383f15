@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0a582028_85af8f4e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000011
+      },
+      "writtenOn": "2021-10-30T13:24:41Z",
+      "side": 1,
+      "message": "I\u0027m sure there\u0027s a better way to bypass it instead of disabling the neverallow",
+      "revId": "57744ba5463697127f4e86cc2e70ea3958383f15",
+      "serverId": "ab419b72-a699-4fba-91ed-29679b37fc49"
+    }
+  ]
+}
